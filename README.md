@@ -3,7 +3,6 @@
 - 🔍 Actively looking for problems where AI/ML techniques can be applied 
 - 💞️ I’m looking to collaborate on research or industrial projects.
 - 📫 Connect with me on LinkedIn www.linkedin.com/in/sanjeev--ahirwar
-- ⚡ Fun fact: I am Physicist
 
 <!---
 Sanjeev1905/Sanjeev1905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
